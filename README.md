@@ -1,0 +1,2 @@
+# Telegram-Trading-Bot-with-Trendline-Breakouts-for-BTC-USDT
+Developed a Python bot for automatic analysis of BTC/USDT using the ccxt library. The bot builds  trendlines, detects breakouts with confirmation by volume and risk/reward ratio, and calculates  stop-loss, take-profit, and liquidation price. Upon signal detection, it sends a chart with detailed  explanation and position calculation to Telegram. 
